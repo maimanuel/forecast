@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "forecast"
+  site-url: "https://maimanuel.github.io/forecast"
+  description: "forecasting utils"
+  repo-branch: main
+  repo-url: "https://github.com/maimanuel/forecast"
