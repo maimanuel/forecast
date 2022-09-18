@@ -4,7 +4,7 @@ project:
 format:
   html:
     theme: vapor
-    css: styles.css
+    #css: #styles.css
     toc: true
 
 website:
@@ -14,7 +14,7 @@ website:
   navbar:
     background: primary
     search: true
-  sidebar:
-    style: floating
+#  sidebar:
+#    style: floating
 
 metadata-files: [nbdev.yml, sidebar.yml]
