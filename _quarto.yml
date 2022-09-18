@@ -3,7 +3,7 @@ project:
 
 format:
   html:
-    theme: sketchy
+    theme: vapor
     css: styles.css
     toc: true
 
